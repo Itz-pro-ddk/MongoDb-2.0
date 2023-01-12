@@ -1,4 +1,7 @@
-
+## Support & Updates 
+<a href="https://t.me/Tjk_legend_bots"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Tjk_legend_bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://youtube.com/@ddksempai40"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
+  
 <p align="center">
   <img src="https://iili.io/HYTVAVs.png">
 </p>
