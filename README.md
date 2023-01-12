@@ -1,4 +1,4 @@
- • *MongoDb_Bot • ─
+ • **MongoDb_Bot** • ─
 </h2>
 
 <p align="center">
