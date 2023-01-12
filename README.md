@@ -1,5 +1,3 @@
- • ~MongoDb_Bot~ • ─
-</h2>
 
 <p align="center">
   <img src="https://iili.io/HYTVAVs.png">
